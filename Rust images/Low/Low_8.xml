@@ -1,6 +1,6 @@
 <annotation>
   <folder>Low</folder>
-  <filename>Low_8</filename>
+  <filename>Low_8.jpg</filename>
   <path>C:\Users\91966\OneDrive\Documents\Rust images\Low\Low_8.jpg</path>
   <source>
     <database>Unknown</database>
@@ -48,7 +48,7 @@
     </bndbox>
   </object>
   <object>
-    <name>low</name>
+    <name>Low</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
